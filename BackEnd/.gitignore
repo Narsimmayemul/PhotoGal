@@ -1,4 +1,4 @@
 # Node.js related
-    node_modules/
+node_modules/
 
 .env
